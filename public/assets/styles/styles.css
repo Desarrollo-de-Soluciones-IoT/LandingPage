@@ -487,6 +487,19 @@ body {
     text-align: center;
 }
 
+#product .mainContainer {
+    display: flex;
+    flex-flow: column;
+}
+
+.feature-product {
+    width: 20%;
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    text-align: center;
+}
+
 .imgContainer {
     width: 85%;
     height: 70%;
