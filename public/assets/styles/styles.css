@@ -524,6 +524,15 @@ body {
     padding: 3% 0 3% 0;
 }
 
+.videoSection2{
+    margin-top: 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
 .mainContainer iframe {
     width: 100%;
 }
